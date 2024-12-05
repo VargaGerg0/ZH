@@ -1,0 +1,12 @@
+.Filmek{
+    display: flex;
+}
+.Film{
+    margin:10px;
+    padding:10px;
+    background: yellow;
+    border: 1px solid;
+} 
+#ert{
+    font-style: bold;
+}
